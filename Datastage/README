@@ -1,2 +1,15 @@
+Data Warehouse Project (Staging Area only).
+
 ETL-jobs for receiving and loading files of DWH.
-Powered by Datastage 8.7
+Java libraies with source code.
+Powered by Datastage 8.7 
+
+INSTRUCTION
+1. Create required database objects in your Oracle Database
+- Execute scripts:
+
+2. Install .env-file to your Data Integration Project using Datastage Administrator
+
+3. Install .dsx-file to your Data Integration Project using Datastage Designer
+
+
