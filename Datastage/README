@@ -1,8 +1,15 @@
 Data Warehouse Project (Staging Area only).
 
-ETL-jobs for receiving and loading files of DWH.
+ETL-jobs for receiving and loading files to DWH.
 Java libraies with source code.
 Powered by Datastage 8.7 
+
+REQURMENTS
+You need:
+1. Datastage Java Transformer Library: tr4j.jar. 
+Default path is: <Datastage path>/DSEngine/java/lib/tr4j.jar
+
+2. Apache Maven for building java projects
 
 INSTRUCTION
 1. Create required database objects in your Oracle Database
