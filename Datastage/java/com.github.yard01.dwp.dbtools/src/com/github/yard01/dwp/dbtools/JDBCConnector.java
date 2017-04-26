@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Properties;
 
+<<<<<<< HEAD
 /**
  * 
  * @author Dmitry Yaroslavtsev (YarD)
@@ -12,6 +13,8 @@ import java.util.Properties;
  *
  */
 
+=======
+>>>>>>> master
 public class JDBCConnector {
 
 	public static final String DB_DRIVER_PROPERTY     = "db_driver";
