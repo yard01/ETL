@@ -5,11 +5,17 @@ Java libraries with source code.
 Powered by Datastage 8.7 
 
 REQURMENTS
-You need:
+
 1. Datastage Java Transformer Library: tr4j.jar. 
 Default path is: <Datastage path>/DSEngine/java/lib/tr4j.jar
 
-2. Apache Maven for building java projects
+2. JCraft libraries: jsch-0.1.53.jar, jzlib-1.1.3
+
+3. Groovy library: groovy-2.4.6
+
+4. ORACLE JDBC library: ojdbc6.jar
+
+5. Apache Maven for building java projects
 
 INSTRUCTION
 1. Create required database objects in your Oracle Database
