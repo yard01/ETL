@@ -22,8 +22,12 @@ INSTRUCTION
 1. Create required database objects in your Oracle Database
 - Execute scripts:
 
-2. Install .env-file to your Data Integration Project using Datastage Administrator
+01 - CREATE_SERVICE_USERS.sql
+02 - CREATE_CONTROL_TABLES.sql
+03 - CREATE_DWH_TABLES.sql
 
-3. Install .dsx-file to your Data Integration Project using Datastage Designer
+2. Install .env-file to your Data Integration Project using Datastage Administrator;
+
+3. Install .dsx-file to your Data Integration Project using Datastage Designer.
 
 
