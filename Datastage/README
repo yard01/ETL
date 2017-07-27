@@ -18,6 +18,7 @@ Default path is: <Datastage path>/DSEngine/java/lib/tr4j.jar
 5. Apache Maven for building java projects
 
 INSTRUCTION
+
 1. Create required database objects in your Oracle Database
 - Execute scripts:
 
